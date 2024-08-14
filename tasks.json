@@ -1,0 +1,658 @@
+ { 
+   "1": [
+        {
+            "condition_image": "1_2.png",
+            "additional_image": "1i2.png",
+            "answer": "53,5",
+            "solution_image": "1s2.png"
+        },
+        {
+            "condition_image": "1_3.png",
+            "additional_image": "1i3.png",
+            "answer": "109,5",
+            "solution_image": "1s3.png"
+        },
+        {
+            "condition_image": "1_4.png",
+            "additional_image": "1i4.png",
+            "answer": "69",
+            "solution_image": "1s4.png"
+        },
+        {
+            "condition_image": "1_5.png",
+            "additional_image": "1i5.png",
+            "answer": "106",
+            "solution_image": "1s5.png"
+        },
+        {
+            "condition_image": "1_6.png",
+            "additional_image": "1i6.png",
+            "answer": "56",
+            "solution_image": "1s6.png"
+        }
+    ],
+    "2": [
+        {
+            "condition_image": "2_1.png",
+            "additional_image": "2i1.png",
+            "answer": "-60",
+            "solution_image": "2s1.png"
+    },
+    {       "condition_image": "2_2.png",
+            "additional_image": null,
+            "answer": "6,5",
+            "solution_image": "2s2.png"
+    },
+    {       "condition_image": "2_3.png",
+            "additional_image": "2i3.png",
+            "answer": "5",
+            "solution_image": "2s3.png"
+    },
+    {       "condition_image": "2_4.png",
+            "additional_image": "2i4.png",
+            "answer": "13",
+            "solution_image": "2s4.png"
+    },
+    {       "condition_image": "2_5.png",
+             "additional_image": null,
+             "answer": "-21",
+             "solution_image": "2s5.png"
+    }
+    ],
+    "3": [
+        {
+            "condition_image": "3_1.png",
+            "additional_image": null,
+            "answer": "80",
+            "solution_image": "3s1.png"
+        },
+        {
+            "condition_image": "3_2.png",
+            "additional_image": "3i2.png",
+            "answer": "4",
+            "solution_image": "3s2.png"
+        },
+        {
+            "condition_image": "3_3.png",
+            "additional_image": null,
+            "answer": "0,75",
+            "solution_image": "3s3.png"
+        },
+        {
+            "condition_image": "3_4.png",
+            "additional_image": null,
+            "answer": "144",
+            "solution_image": "3s4.png"
+        },
+        {
+            "condition_image": "3_5.png",
+            "additional_image": null,
+            "answer": "38",
+            "solution_image": "3s5.png"
+        }
+    ],
+    "4": [
+        {
+            "condition_image": "4_1.png",
+            "additional_image": null,
+            "answer": "0,25",
+            "solution_image": "4s1.png"
+        },
+        {
+            "condition_image": "4_2.png",
+            "additional_image": null,
+            "answer": "0,024",
+            "solution_image": "4s2.png"
+        },
+        {
+            "condition_image": "4_3.png",
+            "additional_image": null,
+            "answer": "0,19",
+            "solution_image": "4s3.png"
+        },
+        {
+            "condition_image": "4_4.png",
+            "additional_image": null,
+            "answer": "0,92",
+            "solution_image": "4s4.png"
+        },
+        {
+            "condition_image": "4_5.png",
+            "additional_image": null,
+            "answer": "0,45",
+            "solution_image": "4s5.png"
+        }
+    ],
+    "5": [
+        {
+            "condition_image": "5_1.png",
+            "additional_image": null,
+            "answer": "10,5",
+            "solution_image": "5s1.png"
+        },
+        {
+            "condition_image": "5_2.png",
+            "additional_image": null,
+            "answer": "0,355",
+            "solution_image": "5s2.png"
+        },
+        {
+            "condition_image": "5_1.png",
+            "additional_image": null,
+            "answer": "0,35",
+            "solution_image": "5s3.png"
+        },
+        {
+            "condition_image": "5_4.png",
+            "additional_image": null,
+            "answer": "0,15",
+            "solution_image": "5s4.png"
+        },
+        {
+            "condition_image": "5_5.png",
+            "additional_image": null,
+            "answer": "0,8125",
+            "solution_image": "5s5.png"
+        }
+    ],
+    "6": [
+        {
+            "condition_image": "6_1.png",
+            "additional_image": null,
+            "answer": "-1",
+            "solution_image": "6s1.png"
+        },
+        {
+            "condition_image": "6_1.png",
+            "additional_image": null,
+            "answer": "1",
+            "solution_image": "6s2.png"
+        },
+        {
+            "condition_image": "6_3.png",
+            "additional_image": null,
+            "answer": "-9",
+            "solution_image": "6s3.png"
+        },
+        {
+            "condition_image": "6_4.png",
+            "additional_image": null,
+            "answer": "-2",
+            "solution_image": "6s4.png"
+        },
+        {
+            "condition_image": "6_5.png",
+            "additional_image": null,
+            "answer": "-2",
+            "solution_image": "6s5.png"
+        }
+    ],
+    "7": [
+        {
+            "condition_image": "7_1.png",
+            "additional_image": null,
+            "answer": "-2",
+            "solution_image": "7s1.png"
+        },
+        {
+            "condition_image": "7_2.png",
+            "additional_image": null,
+            "answer": "1,25",
+            "solution_image": "7s2.png"
+        },
+        {
+            "condition_image": "7_3.png",
+            "additional_image": null,
+            "answer": "-1",
+            "solution_image": "7s3.png"
+        },
+        {
+            "condition_image": "7_4.png",
+            "additional_image": null,
+            "answer": "8",
+            "solution_image": "7s4.png"
+        },
+        {
+            "condition_image": "7_5.png",
+            "additional_image": null,
+            "answer": "28",
+            "solution_image": "7s5.png"
+
+        }
+    ],
+    "8": [
+        {
+            "condition_image": "8_1.png",
+            "additional_image": "3i1.png",
+            "answer": "-0,2",
+            "solution_image": "3s1.png"
+        },
+        {
+            "condition_image": "8_2.png",
+            "additional_image": "8i2.png",
+            "answer": "-0,75",
+            "solution_image": "8s2.png"
+        },
+        {
+            "condition_image": "8_3.png",
+            "additional_image": null,
+            "answer": "12",
+            "solution_image": "8s3.png"
+        },
+        {
+            "condition_image": "8_4.png",
+            "additional_image": null,
+            "answer": "0",
+            "solution_image": "8s4.png"
+        },
+        {
+            "condition_image": "8_5.png",
+            "additional_image": null,
+            "answer": "1",
+            "solution_image": "8s5.png"
+        }
+    ],
+    "9": [
+        {
+            "condition_image": "9_1.png",
+            "additional_image": null,
+            "answer": "633",
+            "solution_image": "9s1.png"
+        },
+        {
+            "condition_image": "9_2.png",
+            "additional_image": null,
+            "answer": "12,5",
+            "solution_image": "9s2.png"
+        },
+        {
+            "condition_image": "9_3.png",
+            "additional_image": null,
+            "answer": "3",
+            "solution_image": "9s3.png"
+        },
+        {
+            "condition_image": "9_4.png",
+            "additional_image": null,
+            "answer": "3",
+            "solution_image": "9s4.png"
+        },
+        {
+            "condition_image": "9_5.png",
+            "additional_image": null,
+            "answer": "3,5",
+            "solution_image": "9s5.png"
+        }
+    ],
+    "10": [
+        {
+            "condition_image": "10_1.png",
+            "additional_image": null,
+            "answer": "18",
+            "solution_image": "10s1.png"
+        },
+        {
+            "condition_image": "10_2.png",
+            "additional_image": null,
+            "answer": "21",
+            "solution_image": "10s2.png"
+        },
+        {
+            "condition_image": "10_3.png",
+            "additional_image": null,
+            "answer": "4",
+            "solution_image": "10s3.png"
+        },
+        {
+            "condition_image": "10_4.png",
+            "additional_image": null,
+            "answer": "2",
+            "solution_image": "10s4.png"
+        },
+        {
+            "condition_image": "10_5.png",
+            "additional_image": null,
+            "answer": "7",
+            "solution_image": "10s5.png"
+        }
+    ],
+    "11": [
+        {
+            "condition_image": "11_1.png",
+            "additional_image": "11i1.png",
+            "answer": "125",
+            "solution_image": "11s1.png"
+        },
+        {
+            "condition_image": "11_2.png",
+            "additional_image": "11i2.png",
+            "answer": "-3",
+            "solution_image": "11s2.png"
+        },
+        {
+            "condition_image": "11_3.png",
+            "additional_image": "11i3.png",
+            "answer": "-4",
+            "solution_image": "11s3.png"
+        },
+        {
+            "condition_image": "11_4.png",
+            "additional_image": "11i4.png",
+            "answer": "-8",
+            "solution_image": "11s4.png"
+        },
+        {
+            "condition_image": "11_5.png",
+            "additional_image": "11i5.png",
+            "answer": "32",
+            "solution_image": "11s5.png"
+        }
+    ],
+    "12": [
+        {
+            "condition_image": "12_1.png",
+            "additional_image": "12i1.png",
+            "answer": "0",
+            "solution_image": "12s1.png"
+        },
+        {
+            "condition_image": "12_2.png",
+            "additional_image": "12i2.png",
+            "answer": "-1",
+            "solution_image": "12s2.png"
+        },
+        {
+            "condition_image": "12_3.png",
+            "additional_image": "12i3.png",
+            "answer": "1",
+            "solution_image": "12s3.png"
+        },
+        {
+            "condition_image": "12_4.png",
+            "additional_image": "12i4.png",
+            "answer": "-10,5",
+            "solution_image": "12s4.png"
+        },
+        {
+            "condition_image": "12_5.png",
+            "additional_image": "12i5.png",
+            "answer": "3,5",
+            "solution_image": "12s5.png"
+        }
+    ],
+    "13": [
+        {
+            "condition_image": "13_1.png",
+            "additional_image": "13i1.png",
+            "answer": null,
+            "solution_image": "13s1.png"
+        },
+        {
+            "condition_image": "13_2.png",
+            "additional_image": "13i2.png",
+            "answer": null,
+            "solution_image": "13s2.png"
+        },
+        {
+            "condition_image": "13_3.png",
+            "additional_image": "13i3.png",
+            "answer": null,
+            "solution_image": "13s3.png"
+        },
+        {
+            "condition_image": "13_4.png",
+            "additional_image": "10i4.png",
+            "answer": null,
+            "solution_image": "13s4.png"
+        },
+        {
+            "condition_image": "13_5.png",
+            "additional_image": "13i5.png",
+            "answer": null,
+            "solution_image": "10s5.png"
+        }
+    ],
+    "14": [
+        {
+            "condition_image": "14_1.png",
+            "additional_image": "14i1.png",
+            "answer": null,
+            "solution_image": "14s1.png"
+        },
+        {
+            "condition_image": "14_2.png",
+            "additional_image": "14i2.png",
+            "answer": null,
+            "solution_image": "14s2.png"
+        },
+        {
+            "condition_image": "14_3.png",
+            "additional_image": "14i3.png",
+            "answer": null,
+            "solution_image": "14s3.png"
+        },
+        {
+            "condition_image": "14_4.png",
+            "additional_image": "14i4.png",
+            "answer": null,
+            "solution_image": "14s4.png"
+        },
+        {
+            "condition_image": "14_5.png",
+            "additional_image": "14i5.png",
+            "answer": null,
+            "solution_image": "14s5.png"
+        }
+    ],
+    "15": [
+        {
+            "condition_image": "15_1.png",
+            "additional_image": "15i1.png",
+            "answer": null,
+            "solution_image": "15s1.png"
+        },
+        {
+            "condition_image": "15_2.png",
+            "additional_image": "15i2.png",
+            "answer": null,
+            "solution_image": "15s2.png"
+        },
+        {
+            "condition_image": "15_3.png",
+            "additional_image": "15i3.png",
+            "answer": null,
+            "solution_image": "15s3.png"
+        },
+        {
+            "condition_image": "15_4.png",
+            "additional_image": "15i4.png",
+            "answer": null,
+            "solution_image": "15s4.png"
+        },
+        {
+            "condition_image": "15_5.png",
+            "additional_image": "15i5.png",
+            "answer": null,
+            "solution_image": "15s5.png"
+        }
+    ],
+    "16": [
+        {
+            "condition_image": "16_1.png",
+            "additional_image": "16i1.png",
+            "answer": null,
+            "solution_image": "16s1.png"
+        },
+        {
+            "condition_image": "16_2.png",
+            "additional_image": "16i2.png",
+            "answer": null,
+            "solution_image": "16s2.png"
+        },
+        {
+            "condition_image": "16_3.png",
+            "additional_image": "16i3.png",
+            "answer": null,
+            "solution_image": "16s3.png"
+        },
+        {
+            "condition_image": "16_4.png",
+            "additional_image": "16i4.png",
+            "answer": null,
+            "solution_image": "16s4.png"
+        },
+        {
+            "condition_image": "16_5.png",
+            "additional_image": "16i5.png",
+            "answer": null,
+            "solution_image": "16s5.png"
+        }
+    ],
+    "17": [
+        {
+            "condition_image": "17_1.png",
+            "additional_image": "17i1.png",
+            "answer": null,
+            "solution_image": "17s1.png"
+        },
+        {
+            "condition_image": "17_2.png",
+            "additional_image": "17i2.png",
+            "answer": null,
+            "solution_image": "17s2.png"
+        },
+        {
+            "condition_image": "17_3.png",
+            "additional_image": "17i3.png",
+            "answer": null,
+            "solution_image": "17s3.png"
+        },
+        {
+            "condition_image": "17_4.png",
+            "additional_image": "17i4.png",
+            "answer": null,
+            "solution_image": "17s4.png"
+        },
+        {
+            "condition_image": "17_5.png",
+            "additional_image": "17i5.png",
+            "answer": null,
+            "solution_image": "17s5.png"
+        }
+    ],
+    "18": [
+        {
+            "condition_image": "18_1.png",
+            "additional_image": "18i1.png",
+            "answer": null,
+            "solution_image": "18s1.png"
+        },
+        {
+            "condition_image": "18_2.png",
+            "additional_image": "18i2.png",
+            "answer": null,
+            "solution_image": "18s2.png"
+        },
+        {
+            "condition_image": "18_3.png",
+            "additional_image": "18i3.png",
+            "answer": null,
+            "solution_image": "18s3.png"
+        },
+        {
+            "condition_image": "18_4.png",
+            "additional_image": "18i4.png",
+            "answer": null,
+            "solution_image": "18s4.png"
+        },
+        {
+            "condition_image": "18_5.png",
+            "additional_image": "18i5.png",
+            "answer": null,
+            "solution_image": "18s5.png"
+        }
+    ],
+    "19": [
+        {
+            "condition_image": "19_1.png",
+            "additional_image": "19i1.png",
+            "answer": null,
+            "solution_image": "19s1.png"
+        },
+        {
+            "condition_image": "19_2.png",
+            "additional_image": "19i2.png",
+            "answer": null,
+            "solution_image": "19s2.png"
+        },
+        {
+            "condition_image": "19_3.png",
+            "additional_image": "19i3.png",
+            "answer": null,
+            "solution_image": "19s3.png"
+        },
+        {
+            "condition_image": "19_4.png",
+            "additional_image": "19i4.png",
+            "answer": null,
+            "solution_image": "19s4.png"
+        },
+        {
+            "condition_image": "19_5.png",
+            "additional_image": "19i5.png",
+            "answer": null,
+            "solution_image": "19s5.png"
+        }
+    ]
+
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
